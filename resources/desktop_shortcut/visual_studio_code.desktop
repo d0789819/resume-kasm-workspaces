@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Visual Studio Code
+GenericName=Visual Studio Code
+Comment=Code Development Environment
+Exec=/usr/share/code/code --no-sandbox
+Categories=TextEditor;Development;IDE;
+Icon=/usr/share/code/resources/app/resources/linux/code.png
+Terminal=false
+StartupNotify=true
+MimeType=application/x-code-workspace;

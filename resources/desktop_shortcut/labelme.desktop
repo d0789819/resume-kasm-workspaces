@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Labelme
+GenericName=Labelme
+Comment=Image Annotation App
+Exec=/opt/anaconda3/bin/labelme
+Categories=Graphics;Qt;Education;
+Icon=/opt/anaconda3/icon/labelme.png
+Terminal=false
+StartupNotify=true

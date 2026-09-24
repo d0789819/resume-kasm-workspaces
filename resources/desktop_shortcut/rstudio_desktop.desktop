@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RStudio
+GenericName=RStudio Desktop
+Comment=R Development Environment
+Exec=/usr/lib/rstudio/rstudio --no-sandbox
+Categories=Development;IDE;Education;
+Icon=/usr/lib/rstudio/resources/app/rstudio.png
+Terminal=false
+StartupNotify=true
+MimeType=text/x-r-source;

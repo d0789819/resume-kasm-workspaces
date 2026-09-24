@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Notebook
+GenericName=Jupyter Notebook
+Comment=Python Development Environment
+Exec=/opt/anaconda3/bin/jupyter-notebook --ip=localhost
+Categories=Development;IDE;Education;
+Icon=/opt/anaconda3/lib/python3.10/site-packages/anaconda_navigator/static/images/logos/jupyter.png
+Terminal=false
+StartupNotify=true
+MimeType=text/x-python;

@@ -1,0 +1,10 @@
+{
+    "/mnt/kasm/share": {
+        "bind": "/home/kasm-user/Downloads",
+        "mode": "ro",
+        "uid": 1000,
+        "gid": 1000,
+        "required": true,
+        "skip_check": false
+    }
+}
