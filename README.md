@@ -28,3 +28,6 @@ They will guide the user to the installation of Visual Studio Code extensions an
 `restrict_image_to_docker_network.sh` can be executed on the host to restrict the Docker Image to the Docker Network.  
 Enabling **Restrict Image to Docker Network** and choosing **kasm_w/o_network** for **Docker Networks** in the workspace's settings will make the session offline.  
 The contents of `volume_mappings.json` can be copied and pasted to **Volume Mappings (JSON)** in the workspace's settings, to share files with the user in the session.
+
+# References
+https://kasm.com/docs/latest/index.html
