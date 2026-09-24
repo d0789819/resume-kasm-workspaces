@@ -30,4 +30,4 @@ Enabling **Restrict Image to Docker Network** and choosing **kasm_w/o_network** 
 The contents of `volume_mappings.json` can be copied and pasted to **Volume Mappings (JSON)** in the workspace's settings, to share files with the user in the session.
 
 # References
-https://kasm.com/docs/latest/index.html
+[1] https://kasm.com/docs/latest/index.html
